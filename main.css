@@ -1,5 +1,5 @@
 body {
-  font-family: "courier", sans-serif;
+  font-family: "Trattatello", sans-serif;
   font-size: 62.5%;
   line-height: 1.42857143;
   color: black;
@@ -48,7 +48,7 @@ ul {
 }
 
 li {
-  flex: 0 0 40em;
+  flex: 0 0 25em;
   align-items: flex-end;
 }
 
@@ -144,37 +144,36 @@ header {
 }
 
 .name {
-  font-size: 10pt;
   line-height: 1.42857143;
   color: red;
 }
 
 .otherName {
-  font-size: 10pt;
   line-height: 1.42857143;
   color: blue;
 }
 
 .original {
-  font-size: 10pt;
   line-height: 1.42857143;
   color: pink;
 }
 
 .where {
-  font-size: 10pt;
   line-height: 1.42857143;
   color: orange;
 }
 
 .spiritual {
-  font-size: 10pt;
   line-height: 1.42857143;
   color: purple;
 }
 
 .story {
-  font-size: 10pt;
   line-height: 1.42857143;
   color: black;
+}
+
+.plant {
+  line-height: 1.42857143;
+  color: green;
 }
