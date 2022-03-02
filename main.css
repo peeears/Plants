@@ -16,6 +16,7 @@ input.checkbox {
 .navigate {
   position: absolute;
   z-index: 10;
+  font-size: 200%;
 }
 
 .container {
@@ -43,10 +44,12 @@ ul {
   list-style: none;
   display: flex;
   flex-direction: row;
+  margin-left: 100px;
 }
 
 li {
-  flex: 0 0 20em;
+  flex: 0 0 40em;
+  align-items: flex-end;
 }
 
 img {
@@ -92,7 +95,7 @@ header {
 }
 
 .row__image {
-  background: #228b22;
+  background: #009600c2;
   width: 100%;
   display: inline-block;
 }
