@@ -173,6 +173,11 @@ header {
   color: black;
 }
 
+.values {
+  line-height: 1.42857143;
+  color: goldenrod;
+}
+
 .plant {
   line-height: 1.42857143;
   color: green;
